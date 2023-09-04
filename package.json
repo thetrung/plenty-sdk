@@ -1,0 +1,32 @@
+{
+  "name": "plenty-sdk",
+  "version": "1.0.0",
+  "description": "a simple library to use plenty network DEX with ease, use at your own risk.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetrung/plenty-sdk.git"
+  },
+  "keywords": [
+    "plenty",
+    "tezos",
+    "dex",
+    "smart",
+    "contract",
+    "network"
+  ],
+  "author": "deulamco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thetrung/plenty-sdk/issues"
+  },
+  "homepage": "https://github.com/thetrung/plenty-sdk#readme",
+  "dependencies": {
+    "bignumber.js": "^9.1.2",
+    "tezallet": "^0.0.95"
+  }
+}
