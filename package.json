@@ -1,11 +1,10 @@
 {
   "name": "plenty-sdk",
-  "version": "1.0.0",
-  "description": "a simple library to use plenty network DEX with ease, use at your own risk.",
+  "version": "1.0.1",
+  "description": "a simple library to use plenty network DEX with ease (at your own risk).",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node test.js"
   },
   "repository": {
     "type": "git",

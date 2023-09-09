@@ -6,7 +6,7 @@ access Plenty Network DEX on Tezos with ease.
 
 ### API USAGE 
 ```javascript
-    import * as plentySdk from "./index.js"
+    import * as plentySdk from "plenty-sdk"
     import * as tezallet from "tezallet"
     
     //
