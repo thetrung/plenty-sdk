@@ -1,6 +1,6 @@
 {
   "name": "plenty-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a simple library to use plenty network DEX with ease (at your own risk).",
   "main": "index.js",
   "type": "module",
