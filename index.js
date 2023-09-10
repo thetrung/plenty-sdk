@@ -314,7 +314,7 @@ export const swap_tokens = async (
  * @param {*} slippage :number - slippage allowed on DEX (0.5% by default)
  * @returns a operations list of [estimation or execution hash].
  */
-export const swap_token_in = async (toolkit, 
+export const swap_by_amount = async (toolkit, 
     token_in, token_out, 
     amount_token_in, 
     is_estimation = true,

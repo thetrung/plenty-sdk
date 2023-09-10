@@ -24,7 +24,7 @@ access Plenty Network DEX on Tezos with ease.
     //
     // swap: 27.7 PLY -> 0.091 CTez 
     //
-    const swap_test = await plentySdk.swap_token_in(tezallet.toolkit, 
+    const swap_test = await plentySdk.swap_by_amount(tezallet.toolkit, 
         'CTez', // Token A
         'PLY',  // Token B
         '89464',// Amount A
